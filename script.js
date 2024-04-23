@@ -18,7 +18,7 @@ const romanNumerals = {
   5: "V",
   4: "IV",
   1: "I", 
-}
+};
 
 const checkNumInput = () => {
   let number = parseInt(numberInput.value);
